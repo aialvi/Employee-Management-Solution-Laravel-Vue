@@ -10,3 +10,4 @@ To run, clone the repository ->
 - modify `.env` file with new database credentials.
 - Run `composer install` command in terminal.
 - Run `npm install && npm run dev` command in terminal.
+- Run `php artisan serve`
